@@ -30,3 +30,5 @@ how to set up an ssh agent
 IN TERMINAL
 1. TYPE eval "$(ssh-agent -s)" and hit enter
 2. type ssh-add ~/.ssh/id_rsa or ssh-add newname
+
+1. Open index.html in browser
